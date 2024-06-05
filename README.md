@@ -1,4 +1,4 @@
-# Python--InstaCart-Basket-Analysis-
+# Python--InstaCart Basket Analysis-
 
 A population flow diagram was designed. Python was utilized to ensure data consistency and perform data wrangling tasks. New columns were created, and the analysis was conducted. Visualizations were generated, and recommendations were provided to the client.
 
