@@ -2,7 +2,7 @@
 
 A population flow diagram was designed. Python was utilized to ensure data consistency and perform data wrangling tasks. New columns were created, and the analysis was conducted. Visualizations were generated, and recommendations were provided to the client.
 
-**objective**
+**Objective**
 
 InstaCart, a thriving online grocery store, wants deeper insights into their sales patterns. As an analyst, my task was to perform an initial data analysis to uncover insights and suggest strategies for better segmentation based on specific criteria. 
 
